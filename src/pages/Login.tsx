@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import logo from '../assets/logo.JPG';
 
 const Login: React.FC = () => {
     const [codeVal, setCodeVal] = useState('');
@@ -44,7 +45,7 @@ const Login: React.FC = () => {
             <div className="snow-overlay" />
             <div className="container">
                 <div className="card">
-                    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem' }}>🎅</h1>
+                    <img src={logo} alt="Secret Santa Logo" className="brand-logo" />
                     <h2 style={{ marginBottom: '2rem', fontSize: '1.8rem', fontWeight: 700 }}>
                         Secret Santa <span className="highlight">2025</span>
                     </h2>

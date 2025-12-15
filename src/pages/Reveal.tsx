@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import logo from '../assets/logo.JPG';
 
 const Reveal: React.FC = () => {
     const { id } = useParams();
@@ -64,7 +65,7 @@ const Reveal: React.FC = () => {
             <div className="snow-overlay" />
             <div className="container">
                 <div className="card">
-                    <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>🎄</h1>
+                    <img src={logo} alt="Secret Santa Logo" className="brand-logo" />
                     <h2 style={{ marginBottom: '0.5rem', fontWeight: 600 }}>
                         Merhaba, <span className="highlight">{user.isim}</span>!
                     </h2>
