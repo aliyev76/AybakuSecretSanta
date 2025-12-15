@@ -1,0 +1,27 @@
+[
+  {
+    "giverId": "u1",
+    "receiverId": "u5",
+    "receiverName": "Emre Çelik"
+  },
+  {
+    "giverId": "u2",
+    "receiverId": "u1",
+    "receiverName": "Ayşe Yılmaz"
+  },
+  {
+    "giverId": "u3",
+    "receiverId": "u4",
+    "receiverName": "Deniz Öztürk"
+  },
+  {
+    "giverId": "u4",
+    "receiverId": "u2",
+    "receiverName": "Burak Demir"
+  },
+  {
+    "giverId": "u5",
+    "receiverId": "u3",
+    "receiverName": "Ceren Kaya"
+  }
+]
