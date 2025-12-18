@@ -10,68 +10,68 @@
     "receiverName": "Ilkin Abdinli"
   },
   {
-    "giverId": "u11",
+    "giverId": "u10",
     "receiverId": "u3",
     "receiverName": "Fatime Guluzada"
   },
   {
     "giverId": "u1",
-    "receiverId": "u14",
-    "receiverName": "ESMA kHALILI"
-  },
-  {
-    "giverId": "u2",
     "receiverId": "u10",
     "receiverName": "Sama Rahimli"
   },
   {
+    "giverId": "u2",
+    "receiverId": "u14",
+    "receiverName": "ESMA kHALILI"
+  },
+  {
     "giverId": "u4",
-    "receiverId": "u7",
-    "receiverName": "Nigar Abdinli"
-  },
-  {
-    "giverId": "u5",
-    "receiverId": "u1",
-    "receiverName": "Laman Aliyeva"
-  },
-  {
-    "giverId": "u7",
-    "receiverId": "u9",
-    "receiverName": "Halila Aliyeva"
-  },
-  {
-    "giverId": "u8",
-    "receiverId": "u12",
-    "receiverName": "Tayfun Aliyev"
-  },
-  {
-    "giverId": "u9",
-    "receiverId": "u4",
-    "receiverName": "Havva Gambarova"
-  },
-  {
-    "giverId": "u10",
-    "receiverId": "u11",
-    "receiverName": "Aygul Rahimli"
-  },
-  {
-    "giverId": "u12",
-    "receiverId": "u15",
-    "receiverName": "Eziz Abishov"
-  },
-  {
-    "giverId": "u13",
     "receiverId": "u2",
     "receiverName": "Balli Agamirli"
   },
   {
-    "giverId": "u14",
+    "giverId": "u5",
+    "receiverId": "u4",
+    "receiverName": "Havva Gambarova"
+  },
+  {
+    "giverId": "u7",
+    "receiverId": "u13",
+    "receiverName": "Firuz Aliyev"
+  },
+  {
+    "giverId": "u8",
+    "receiverId": "u7",
+    "receiverName": "Nigar Abdinli"
+  },
+  {
+    "giverId": "u9",
+    "receiverId": "u1",
+    "receiverName": "Laman Aliyeva"
+  },
+  {
+    "giverId": "u11",
+    "receiverId": "u12",
+    "receiverName": "Tayfun Aliyev"
+  },
+  {
+    "giverId": "u12",
     "receiverId": "u5",
     "receiverName": "Arhan Ibrahimli"
   },
   {
+    "giverId": "u13",
+    "receiverId": "u11",
+    "receiverName": "Aygul Rahimli"
+  },
+  {
+    "giverId": "u14",
+    "receiverId": "u15",
+    "receiverName": "Eziz Abishov"
+  },
+  {
     "giverId": "u15",
-    "receiverId": "u13",
-    "receiverName": "Firuz Aliyev"
+    "receiverId": "u9",
+    "receiverName": "Halila Aliyeva"
   }
 ]
